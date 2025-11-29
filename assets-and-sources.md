@@ -12,10 +12,7 @@ This file contains all the text and image sources used for our presentation on t
 2. Reuters. (2024). *EU lawmakers approve AI Act regulating artificial intelligence*.  
    https://www.reuters.com/technology/
 
-3. MIT Technology Review. (2024). *What the EU AI Act means for artificial intelligence*.  
-   https://www.technologyreview.com/
-
-4. European Commission. (2024). *Regulating artificial intelligence in the EU*.  
+3. European Commission. (2024). *Regulating artificial intelligence in the EU*.  
    https://commission.europa.eu/
 
 ---
