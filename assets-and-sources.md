@@ -25,23 +25,6 @@ This file contains all the text and image sources used for our presentation on t
 
 ##  Image Sources
 
-1. European Union logo and AI Act graphics  
-   Source: European Commission Media Library  
-   https://commission.europa.eu/
-
-2. AI surveillance and facial recognition images  
-   Source: Unsplash (royalty-free images)  
-   https://unsplash.com/
-
-3. Deepfake and digital manipulation visuals  
-   Source: Pexels (royalty-free images)  
-   https://www.pexels.com/
-
-4. Global AI regulation map  
-   Source: Statista (for educational reference)  
-   https://www.statista.com/
-
----
 
 ## Notes
 - All sources listed here were used for research, slides, and script development.
