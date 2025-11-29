@@ -1,5 +1,5 @@
 # topic ideas 
-## ideas that will be usre for the presentation. 
+## ideas that will be used for the presentation. 
 
 ## reasoning for creating the EU AI Act 
 
