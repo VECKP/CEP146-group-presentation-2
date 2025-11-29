@@ -28,5 +28,3 @@ This file contains all the text and image sources used for our presentation on t
 
 ## Notes
 - All sources listed here were used for research, slides, and script development.
-- Images were selected from royalty-free platforms for educational use.
-- Links may be updated if higher-quality assets are added later.
