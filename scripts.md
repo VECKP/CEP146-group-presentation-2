@@ -6,6 +6,6 @@ Today, we’re talking about the EU AI Act, which is the world’s first major l
 
 ## victor - conclusion 
 
-*Their reason for targeting these topics is because each of these categories can fuel negative tensions within countries and pose a great affects to the European Union as AI can and already has heavily influenced the content you see and collected data that should NOT be in the hands of certain entities.*  
+*Their reason for targeting these topics is because each of these categories can fuel negative tensions within countries and pose great affects to the countries within the European Union as AI can and/has already heavily influenced the content you see and potetionally collected data that should NOT be in the hands of certain entities.*  
 
 *As time goes on AI will play a heavy impact on society and governments taking precautionary steps insures the safety of people and sets an example not only europe, but also around the world*
