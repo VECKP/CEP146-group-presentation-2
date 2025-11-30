@@ -20,8 +20,15 @@ This file contains all the text and image sources used for our presentation on t
   
 4. Holla Legal & Tax. (2024).  
    *AI Act explained: Ban on real-time remote biometric identification in public spaces.*  
-   https://www.holla.nl/en/news/ai-act-explained-ban-on-real-time-remote-biometric-identification-in-public-spaces-9-10 
+   https://www.holla.nl/en/news/ai-act-explained-ban-on-real-time-remote-biometric-identification-in-public-spaces-9-10
 
+5. Reuters. (2024).
+   EU lawmakers give final approval to landmark AI rules.
+   (https://www.reuters.com/technology/eu-lawmakers-endorse-political-deal-artificial-intelligence-rules-2024-03-13/)
+   
+7. Politico Europe. (2024).
+   EU AI Act sparks concern among businesses over stifling innovation.
+   (https://www.politico.eu/article/the-eu-wanted-to-lead-on-regulating-ai-now-its-hitting-pause/)
 ---
 
 ##  Image Sources
