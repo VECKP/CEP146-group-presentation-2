@@ -9,6 +9,10 @@ The EU AI Act has a major impact on how AI is developed and used. On the positiv
 
 However, the act also creates challenges. The strict rules can slow down innovation, especially for smaller companies that may struggle with compliance costs. Some businesses warn that these regulations could push AI development and investment away from Europe. Overall, the act improves safety but also creates new challenges for growth and competition.
 
+sources (impact):
+reuters – “eu lawmakers give final approval to landmark ai rules”: https://www.reuters.com/technology/eu-lawmakers-give-final-approval-landmark-ai-rules-2024-03-13/
+politico – “eu ai act sparks fears of stifling innovation”: https://www.politico.eu/article/eu-ai-act-fears-business-stifling-innovation/
+
 ## victor - conclusion 
 
 *Their reason for targeting these topics is because each of these categories can fuel negative tensions within countries and pose great affects to the countries within the European Union as AI can and/has already heavily influenced the content you see and potetionally collected data that should NOT be in the hands of certain entities.*  
