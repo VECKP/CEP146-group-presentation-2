@@ -11,6 +11,7 @@ However, the act also creates challenges. The strict rules can slow down innovat
 
 sources (impact):
 reuters – “eu lawmakers give final approval to landmark ai rules”: https://www.reuters.com/technology/eu-lawmakers-give-final-approval-landmark-ai-rules-2024-03-13/
+
 politico – “eu ai act sparks fears of stifling innovation”: https://www.politico.eu/article/eu-ai-act-fears-business-stifling-innovation/
 
 ## victor - conclusion 
