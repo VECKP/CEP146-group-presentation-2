@@ -9,6 +9,14 @@ The EU AI Act has a major impact on how AI is developed and used. On the positiv
 
 However, the act also creates challenges. The strict rules can slow down innovation, especially for smaller companies that may struggle with compliance costs. Some businesses warn that these regulations could push AI development and investment away from Europe. Overall, the act improves safety but also creates new challenges for growth and competition.
 
+## Gabriel –  Future risks
+
+Artificial intelligence offers great opportunities, but it also brings important risks for the future.
+Misinformation is becoming harder to detect as deepfakes and synthetic media grow more realistic.
+Data misuse threatens privacy when AI systems handle large amounts of personal information.
+Algorithmic bias can lead to unfair decisions in areas like hiring, education, and law enforcement.
+And rapid automation may disrupt jobs and concentrate power in a few major companies.
+
 ## victor - conclusion 
 
 *Their reason for targeting these topics is because each of these categories can fuel negative tensions within countries and pose great affects to the countries within the European Union as AI can and/has already heavily influenced the content you see and potetionally collected data that should NOT be in the hands of certain entities.*  
