@@ -4,4 +4,4 @@ Welcome to this AI-focused presentation, a space dedicated to exploring and buil
 **presented by:Victor Peters, Ashley Olafusi, Garbiel Folador, David Okereke**
 
 
-## Link to video:
+## Link to video: [Click here!](https://youtu.be/3c7onoKaOPA)
