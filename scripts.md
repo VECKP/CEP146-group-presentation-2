@@ -1,1 +1,29 @@
+## Ashley – Introduction (EU AI Act)
+
+Today, we’re talking about the EU AI Act, which is the world’s first major law created to regulate artificial intelligence. As AI continues to grow rapidly and become part of everyday technology, governments around the world have started paying closer attention to how it is developed and used. The European Union was the first to introduce a full legal framework specifically for artificial intelligence, setting a global standard for how AI systems should be controlled and governed.
+
+
+## david – impact
+
+The EU AI Act has a major impact on how AI is developed and used. On the positive side, it increases safety by limiting the use of harmful AI systems, reducing deepfake risks, and requiring greater transparency from companies. This helps build trust and protects people from misuse.
+
+However, the act also creates challenges. The strict rules can slow down innovation, especially for smaller companies that may struggle with compliance costs. Some businesses warn that these regulations could push AI development and investment away from Europe. Overall, the act improves safety but also creates new challenges for growth and competition.
+
+## Gabriel –  Future risks
+
+Artificial intelligence offers great opportunities, but it also brings important risks for the future.
+Misinformation is becoming harder to detect as deepfakes and synthetic media grow more realistic.
+Data misuse threatens privacy when AI systems handle large amounts of personal information.
+Algorithmic bias can lead to unfair decisions in areas like hiring, education, and law enforcement.
+And rapid automation may disrupt jobs and concentrate power in a few major companies.
+
+## victor - conclusion 
+
+*Their reason for targeting these topics is because each of these categories can fuel negative tensions within countries and pose great affects to the countries within the European Union as AI can and/has already heavily influenced the content you see and potetionally collected data that should NOT be in the hands of certain entities.*  
+
+*As time goes on AI will play a heavy impact on society and governments taking precautionary steps insures the safety of people and sets an example not only europe, but also around the world*
+
+## victor - final question 
+*“What future risks or realities do you fear may emerge as artificial intelligence becomes more integrated into society?* 
+
 
