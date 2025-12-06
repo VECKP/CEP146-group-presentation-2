@@ -15,6 +15,7 @@ However, the act also creates challenges. The strict rules can slow down innovat
 
 *As time goes on AI will play a heavy impact on society and governments taking precautionary steps insures the safety of people and sets an example not only europe, but also around the world*
 
-## victor - final question *“What future risks or realities do you fear may emerge as artificial intelligence becomes more integrated into society?* 
+## victor - final question 
+*“What future risks or realities do you fear may emerge as artificial intelligence becomes more integrated into society?* 
 
 
